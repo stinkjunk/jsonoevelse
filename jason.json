@@ -1,0 +1,22 @@
+{
+  "id": 693803,
+  "names": {
+    "firstname": "Magnus",
+    "middlename": "Krahl",
+    "lastname": "Larsen",
+    "nickname": ["Mag", "Mag-mag", "Mause", "Magazine"]
+  },
+  "dob": "09-04-2001",
+  "adress": {
+    "consent": false,
+    "userMessage": "Not today, CIA!"
+  },
+  "studies": {
+    "isStudent": "true",
+    "school": ["Københavns Erhvervsakademi", "KEA"],
+    "studies": "Multimediadesign",
+    "team": "B",
+    "semester": 2
+  },
+  "interests": ["Coding", "Philosophy", "Astronomy", "Sci-fi", "Chinese"]
+}
